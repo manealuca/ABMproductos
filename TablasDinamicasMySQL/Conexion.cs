@@ -14,7 +14,7 @@ namespace TablasDinamicasMySQL
             string server = "localhost";
             string bd = "Tienda";
             string user = "root";
-            string password = "8ak87xwa";
+            string password = "********";
             string cadenaConexion = "Database=" + bd + ";Data Source=" + server + ";User Id=" + user + ";Password=" + password + "";
             try
             {
